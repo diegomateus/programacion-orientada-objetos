@@ -1,0 +1,23 @@
+#PLATO
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do)
+100          *bandeja Paisa	*carta			   *ju	
+#ingredientes
+10  2
+20  1
+40  2
+0
+#PLATO
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do)
+200          *lasagna		*diario
+#ingredientes
+30  1
+60  2
+0
+#PLATO
+#código------nombre-------------tipo(diario,carta)---día(lu,ma,mi,ju,vi,sa,do) 
+300         *pizza siciliana	*carta			   *ma
+#ingredientes
+30  1
+50  1
+0
+#FIN
